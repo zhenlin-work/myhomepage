@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Ph.D. in Microelectronics
+      institution: Hong Kong University of Science and Technology (Guangzhou)
       year: 2022-Now
     - course: Ms in Fundamental Mathematics
       institution: Capital Normal University
